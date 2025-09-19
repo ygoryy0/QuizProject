@@ -1,1 +1,1 @@
-# QuizProject
+QUIZ_PROJECT
