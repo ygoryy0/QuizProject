@@ -33,10 +33,7 @@ public class MainActivity extends AppCompatActivity {
     // Imagens para cada pergunta (colocar na pasta res/drawable)
     int[] images = {
             R.drawable.brasilia,  // imagem da primeira pergunta
-            R.drawable.soma,      // imagem da segunda pergunta
-            R.drawable.cabral     // imagem da terceira pergunta
     };
-
     int currentQuestion = 0; // começa na primeira pergunta
     int score = 0; // contador de pontos
 
